@@ -1,0 +1,36 @@
+/*
+*Claire Campbell
+*Due Date
+*Project Name and Description
+*/
+
+/*The universal selector*/
+
+* {
+
+}
+
+/* Body attributes here */
+header{
+    background-color: pink
+}
+main {
+    background-color: aqua
+}
+{}
+footer{
+    background-color: blue
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+#carsonwentz {width: 130px; height: 100px}
+h1 {
+    font-size: 150%;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline overline;
+}
+img {float: right;} 
